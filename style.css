@@ -4,3 +4,17 @@ body {
 
     font-family: 'Roboto', monospace;
 }
+
+#social-btn {
+    font-size: 40px;
+
+    width: 40px;
+    height: 40px;
+
+    cursor: pointer;
+
+    color: white;
+
+    border: none;
+    text-decoration: none;
+}
